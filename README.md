@@ -1,5 +1,6 @@
 # ckosukesasa.github.io
 
+
 <style>
 /* Styling for Markdown rendering (for demonstration purposes only, may not work in all Markdown renderers) */
 body {
@@ -96,7 +97,6 @@ Describe your educational and professional background here. Highlight your achie
 ---
 
 ## Weekly Blogs
-
 <div class="blog">
     <h3>Blog Title 1</h3>
     <iframe src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
@@ -110,3 +110,11 @@ Describe your educational and professional background here. Highlight your achie
 </div>
 
 <!-- Add more blog posts as needed -->
+
+<nav>
+    <ul>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#background">Background</a></li>
+        <li><a href="#blogs">Blogs</a></li>
+    </ul>
+</nav>
