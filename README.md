@@ -80,6 +80,14 @@ iframe {
 
 # Your Name - Portfolio
 
+<nav>
+    <ul>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#background">Background</a></li>
+        <li><a href="#blogs">Blogs</a></li>
+    </ul>
+</nav>
+
 ## Skills
 - Web Development
 - HTML, CSS, JavaScript
@@ -107,11 +115,3 @@ Describe your educational and professional background here. Highlight your achie
 </div>
 
 <!-- Add more blog posts as needed -->
-
-<nav>
-    <ul>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#background">Background</a></li>
-        <li><a href="#blogs">Blogs</a></li>
-    </ul>
-</nav>
