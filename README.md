@@ -1,7 +1,5 @@
 # ckosukesasa.github.io
 
-
-
 <style>
 /* Styling for Markdown rendering (for demonstration purposes only, may not work in all Markdown renderers) */
 body {
@@ -60,6 +58,25 @@ h2 {
     color: #007bff;
 }
 
+/* Blog post styling */
+.blog {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+h3 {
+    color: #007bff;
+}
+
+iframe {
+    width: 100%;
+    height: 315px; /* Example video height (adjust as needed) */
+    border: none;
+}
+
 /* End of Markdown styling */
 </style>
 
@@ -79,10 +96,17 @@ Describe your educational and professional background here. Highlight your achie
 ---
 
 ## Weekly Blogs
-### Blog Title 1
-Write a brief summary of your first blog post here.
 
-### Blog Title 2
-Write a brief summary of your second blog post here.
+<div class="blog">
+    <h3>Blog Title 1</h3>
+    <iframe src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
+    <p>Write a brief summary of your first blog post here. You can embed a video using the iframe element above.</p>
+</div>
 
-<!-- Add more blog articles as needed -->
+<div class="blog" style="background-color: #e0f7fa;">
+    <h3>Blog Title 2</h3>
+    <iframe src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
+    <p>Write a brief summary of your second blog post here. You can change the background color for each blog using the `style` attribute.</p>
+</div>
+
+<!-- Add more blog posts as needed -->
