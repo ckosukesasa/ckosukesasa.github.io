@@ -1,5 +1,3 @@
-# ckosukesasa.github.io
-
 <style>
 /* Styling for Markdown rendering (for demonstration purposes only, may not work in all Markdown renderers) */
 body {
@@ -84,4 +82,3 @@ Write a brief summary of your first blog post here.
 Write a brief summary of your second blog post here.
 
 <!-- Add more blog articles as needed -->
-
