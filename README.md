@@ -1,5 +1,4 @@
 <style>
-/* Styling for Markdown rendering (for demonstration purposes only, may not work in all Markdown renderers) */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -35,6 +34,17 @@ nav ul {
 nav li {
     display: inline;
     margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #007bff;
 }
 
 .container {
